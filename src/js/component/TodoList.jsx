@@ -35,6 +35,7 @@ export const TodoList = () => {
                     }
                 </ul>
             </div>
+            <h5 className="my-3">{list.length} tareas pendientes</h5>
         </div>
     </div>
     )
